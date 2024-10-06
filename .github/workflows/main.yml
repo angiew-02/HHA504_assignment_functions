@@ -1,0 +1,19 @@
+name: Scheduled Task Executed 
+
+on:
+  schedule:
+    # Runs every day at midnight (UTC)
+    - cron: '0 0 * * *'
+
+jobs:
+  run-script:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Run my script
+        run: |
+          chmod +x ./my-script.sh
+          ./my-script.sh
