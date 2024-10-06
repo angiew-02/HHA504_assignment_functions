@@ -6,11 +6,15 @@ The objective of this assignment is an introduction to serverless computing and 
 
 ### *GCP*
 ![GCP Serverless Functions](https://github.com/user-attachments/assets/667edfc1-2caa-42ab-ad80-62377f0dbd20)
+
 ![GCP Function Colab](https://github.com/user-attachments/assets/a5fdc1cb-c13c-49ce-9da2-a5069520fafc)
 
 # 2. Create a Cron Job
 ### Github Actions
-![Github Actions](https://github.com/user-attachments/assets/58e68460-3b24-46fa-a237-18fc54d43516)
+![Github Actions](https://github.com/user-attachments/assets/e68a6d23-91e7-4ae8-8580-f7269ea14495
+)
+
+![Github Actions Error](https://github.com/user-attachments/assets/b8d9367c-8974-4167-b180-eaa1abbc79ce)
 
 # 3. Explore Functions as a Service (FaaS)
 Serverless Functions are used for responding to events like HTTP request, uploading files, and changing databases as well as serve for API backend services. In addition, it can be used for data processing such as used for IoT devices, aggregating data, and performing scheduled tasks. 
